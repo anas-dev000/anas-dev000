@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">Full Stack Developer (MEARN) | Passionate about Scalable Apps</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-dev000&label=Profile%20views&color=0e75b6&style=flat" alt="anas-dev000" /> </p>
 
