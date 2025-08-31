@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wQ1U4RQQ7l-ka2l6w49Q8ClxG0f_3uYd/view?usp=sharing](https://drive.google.com/file/d/1wQ1U4RQQ7l-ka2l6w49Q8ClxG0f_3uYd/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy analyzing project details and building efficient solutions**
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
